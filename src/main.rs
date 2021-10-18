@@ -1,3 +1,6 @@
+mod lexer;
 fn main() {
-    println!("Hello, world!");
+
+    let token = lexer::Token{token_type: lexer::TokenType::MINUS, value: String::from("")};
+    println!("{}", token);
 }
