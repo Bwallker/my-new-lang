@@ -1,0 +1,10 @@
+c:\Users\benbw\Documents\GitRepo\my-new-lang\target\rls\debug\deps\proc_macro2-3ec8279c792aeb54.rmeta: C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\lib.rs C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\marker.rs C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\parse.rs C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\detection.rs C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\fallback.rs C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\wrapper.rs
+
+c:\Users\benbw\Documents\GitRepo\my-new-lang\target\rls\debug\deps\proc_macro2-3ec8279c792aeb54.d: C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\lib.rs C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\marker.rs C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\parse.rs C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\detection.rs C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\fallback.rs C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\wrapper.rs
+
+C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\lib.rs:
+C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\marker.rs:
+C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\parse.rs:
+C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\detection.rs:
+C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\fallback.rs:
+C:\Users\benbw\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.30\src\wrapper.rs:
